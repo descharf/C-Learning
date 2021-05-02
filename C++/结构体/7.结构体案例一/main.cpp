@@ -68,6 +68,7 @@ int main(){
 	allocateSpace(tArray, len);
 	
 	//3.打印所有老师及其学生的信息
+	
 	printInfo(tArray, len);
 	
 
